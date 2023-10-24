@@ -1,7 +1,7 @@
 package org.example;
 public class Producto {
 
-	private string nombre;
+	private String nombre;
 
 	public FamiliaProductos FamiliaDeProductos() {
 		// TODO - implement Producto.FamiliaDeProductos

@@ -1,7 +1,7 @@
 package org.example;
 public class MedioPago {
 
-	private string nombre;
+	private String nombre;
 
 	public Cuenta Cuenta() {
 		// TODO - implement MedioPago.Cuenta
